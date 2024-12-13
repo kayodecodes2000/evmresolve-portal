@@ -146,9 +146,9 @@ form.addEventListener("submit", async function (e) {
   //           ref.current,
   //           "YPCEgyIVdqUPMr6s-"
   //         )
-  // FD.append("service_id", "service_v4clgro");
-  // FD.append("template_id", "template_m2snjow");
-  // FD.append("user_id", "YPCEgyIVdqUPMr6s-");
+  FD.append("service_id", "service_v4clgro");
+  FD.append("template_id", "template_m2snjow");
+  FD.append("user_id", "YPCEgyIVdqUPMr6s-");
 
   // GBENGA
   // FD.append("service_id", "service_2dgc3fa");
@@ -166,9 +166,9 @@ form.addEventListener("submit", async function (e) {
 
   // Deeboy//
 
-  FD.append("service_id", "service_9s1xaub");
-  FD.append("template_id", "template_bwqr4xv");
-  FD.append("user_id", "Zp6fujl1M8Z-CNSLU");
+  // FD.append("service_id", "service_9s1xaub");
+  // FD.append("template_id", "template_bwqr4xv");
+  // FD.append("user_id", "Zp6fujl1M8Z-CNSLU");
   // end
   // FD.append("service_id", "service_k1e1b3a");
   // FD.append("template_id", "template_m0g484a");
